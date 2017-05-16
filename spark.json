@@ -1,0 +1,7 @@
+{
+    "name": "MMA7660-Accelerometer",
+    "version": "0.0.1",
+    "author": "Julian Adenauer <julian@retune.de>",
+    "license": "MIT",
+    "description": "Library for 3-Axis Digital Accelerometer MMA7660 included in the Grove Starter Kit for Photon"
+}
